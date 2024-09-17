@@ -16,3 +16,5 @@ This project uses the following technologies and tools:
 | **Axios** | A promise-based HTTP client for making API requests in JavaScript. |
 
 
+## environment variable
+`OPENWEATHER_API_KEY=<your-openweather-api-key> `

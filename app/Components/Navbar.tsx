@@ -1,6 +1,6 @@
 "use client";
 import React from "react";
-import { ModeToggle } from "./Theme/ModeToggle";
+import { ModeToggle } from "../context/Theme/ModeToggle";
 import { Button } from "@/components/ui/button";
 import { useRouter } from "next/navigation";
 import { Github } from "lucide-react";
