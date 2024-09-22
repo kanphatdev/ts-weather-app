@@ -14,6 +14,8 @@ This project uses the following technologies and tools:
 | **Lucide Icons**  | A collection of open-source icons for use in web applications. |
 | **React**         | A JavaScript library for building user interfaces with component-based architecture. |
 | **Axios**         | A promise-based HTTP client for making API requests in JavaScript. |
+| **React Leaflet** | A library for integrating interactive maps into React applications using Leaflet.js. |
+| **Next Themes**   | A utility to add dark/light mode functionality to Next.js applications. |
 
 ## Environment Variable
 
@@ -31,5 +33,4 @@ The project integrates with the following external APIs for weather data:
 |-------------------|------------------------------------------------------|-----------------------------------------------------------------------------|
 | **OpenWeather**   | [https://api.openweathermap.org/](https://api.openweathermap.org/) | Provides weather data for various locations around the globe. Requires an API key for access. |
 | **Open-Meteo**    | [https://api.open-meteo.com/](https://api.open-meteo.com/)         | A free weather API that provides forecast data without requiring an API key. |
-
 

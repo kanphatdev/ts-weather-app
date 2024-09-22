@@ -43,15 +43,12 @@ export const GlobalContextProvider = ({ children }) => {
   const fetchUvIndex = async () => {
     try {
       const res = await axios.get("api/uv");
-      console.log("uv index",res.data);
-      
-    setUvIndex(res.data);
-      
-      
+
+      setUvIndex(res.data);
     } catch (error) {
-      console.log("Error fetch uv index",error);
+      console.log("Error fetch uv index", error);
     }
-  }
+  };
   useEffect(() => {
     fetchForecast();
     fetchPollution();
