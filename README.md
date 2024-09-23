@@ -42,7 +42,7 @@ The project integrates with the following external APIs for weather data:
 
 For more information on the project setup and tutorial, check the following video:
 
-![Reference Project](https://www.youtube.com/watch?v=rscl9VwwnQg&t=19690s)
+[Reference Project](https://www.youtube.com/watch?v=rscl9VwwnQg&t=19690s)
 
 ---
 
