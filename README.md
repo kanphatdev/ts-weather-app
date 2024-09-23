@@ -1,3 +1,7 @@
+Here's an updated version of your README with the tutorial reference link added below the API Reference section:
+
+---
+
 # Project README
 
 ## Tech Stack
@@ -34,3 +38,12 @@ The project integrates with the following external APIs for weather data:
 | **OpenWeather**   | [https://api.openweathermap.org/](https://api.openweathermap.org/) | Provides weather data for various locations around the globe. Requires an API key for access. |
 | **Open-Meteo**    | [https://api.open-meteo.com/](https://api.open-meteo.com/)         | A free weather API that provides forecast data without requiring an API key. |
 
+## Tutorial and Reference Video
+
+For more information on the project setup and tutorial, check the following video:
+
+[Reference Project](https://www.youtube.com/watch?v=rscl9VwwnQg&t=19690s)
+
+---
+
+This README includes the YouTube link under the "Tutorial and Reference Video" section, as you requested.
